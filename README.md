@@ -8,5 +8,6 @@
 
 ```python
 python3 Portscan -h
+查看详细方法
 ```
 
